@@ -9,9 +9,9 @@
 
 <p align="left"> <a href="https://twitter.com/real_swarnav" target="blank"><img src="https://img.shields.io/twitter/follow/real_swarnav?logo=twitter&style=for-the-badge" alt="real_swarnav" /></a> </p>
 
-- 🔭 I’m currently working on **an flutter app**
+- 🔭 I’m currently working on **a flutter app**
 
-- 🌱 I’m currently learning **Flutter , APIs and CI/CD**
+- 🌱 I’m currently learning **Flutter , APIs and UI/UX design**
 
 - 👨‍💻 All of my projects are available at [https://github.com/swrnv](https://github.com/swrnv)
 
