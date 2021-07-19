@@ -19,6 +19,10 @@
 
 - ⚡ Fun fact **at any given moment ,i might be binge-watching, reading a book in a corner or staring in my laptop to find bugs... not necessarily in that order**
 
+
+## 😂 Here is a random joke that'll make you laugh!
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/real_swarnav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="real_swarnav" height="30" width="40" /></a>
