@@ -26,8 +26,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/real_swarnav" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="real_swarnav" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/swarnava haldel" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swarnava haldel" height="30" width="40" /></a>
-<a href="https://instagram.com/_s_wrnv" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_s_wrnv" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/swrnv19" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="swarnava haldel" height="30" width="40" /></a>
+<a href="https://instagram.com/_swrnv_" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="_s_wrnv" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
