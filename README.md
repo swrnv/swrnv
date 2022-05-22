@@ -11,7 +11,7 @@
 
 - 🔭 I’m currently working on **a flutter app**
 
-- 🌱 I’m currently learning **Flutter , APIs and UI/UX design**
+- 🌱 I’m currently learning **Flutter and web-dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/swrnv](https://github.com/swrnv)
 
