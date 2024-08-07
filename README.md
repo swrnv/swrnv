@@ -3,15 +3,13 @@
 ### _____Hi !!!___👋
 
 <h1 align="center"> I'm Swarnava</h1>
-<h3 align="center">A passionate frontend developer and flutter developer from India...</h3>
+<h3 align="center">A passionate developer from India...</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swrnv&label=Profile%20views&color=0e75b6&style=flat" alt="swrnv" /> </p>
 
 <p align="left"> <a href="https://twitter.com/real_swarnav" target="blank"><img src="https://img.shields.io/twitter/follow/real_swarnav?logo=twitter&style=for-the-badge" alt="real_swarnav" /></a> </p>
 
-- 🔭 I’m currently working on **a flutter app**
-
-- 🌱 I’m currently learning **Flutter and web-dev**
+- 🌱 I’m currently learning **Java full stack - web-dev**
 
 - 👨‍💻 All of my projects are available at [https://github.com/swrnv](https://github.com/swrnv)
 
